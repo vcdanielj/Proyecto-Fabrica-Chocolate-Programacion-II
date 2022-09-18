@@ -1,0 +1,8 @@
+------------------ INVENTARIO FÁBRICA DE CHOCOLATE ------------------
+
+manteca de cacao: 15 kilogramos
+leche: 9 litros
+azucar: 89 kilogramos
+pasta de cacao: 8 kilogramos
+chocolate blanco: 28 tabletas
+chocolate con leche: 4 tabletas
