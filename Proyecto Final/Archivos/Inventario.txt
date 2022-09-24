@@ -1,0 +1,13 @@
+------------------ INVENTARIO FÁBRICA DE CHOCOLATE ------------------
+
+azucar: 400.0 kilogramos
+pasta de cacao: 320.0 kilogramos
+leche en polvo sin lactosa: 25.0 kilogramos
+manteca de cacao: 80.0 kilogramos
+lecitina de soja: 12.0 kilogramos
+endulcorante: 12.0 litros
+almendras: 200.0 kilogramos
+avellanas: 60.0 kilogramos
+almidon de maiz: 15.0 kilogramos
+cacao desgranado: 200.0 kilogramos
+leche en polvo: 40.0 kilogramos

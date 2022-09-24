@@ -1,0 +1,47 @@
+------------------ RECETARIO FÁBRICA DE CHOCOLATE ------------------
+
+
+CHOCOLATE PURO POSTRES
+Presentacion: tabletas
+Cantidad Generada: 100
+Ingredientes:
+ • Azucar: 1.8 kilogramos
+ • Manteca De Cacao: 2.0 kilogramos
+ • Pasta De Cacao: 2.3 kilogramos
+ • Almendras: 1.0 kilogramos
+
+CHOCOLATE A LA TAZA
+Presentacion: Empaques 1kg
+Cantidad Generada: 60
+Ingredientes:
+ • Azucar: 6.0 kilogramos
+ • Cacao Desgranado: 20.0 kilogramos
+ • Almidon De Maiz: 0.5 kilogramos
+
+CHOCOLATE CON LECHE SIN LACTOSA
+Presentacion: tabletas
+Cantidad Generada: 45
+Ingredientes:
+ • Azucar: 4.0 kilogramos
+ • Manteca De Cacao: 8.0 kilogramos
+ • Leche En Polvo Sin Lactosa: 6.0 kilogramos
+ • Lecitina De Soja: 0.2 kilogramos
+
+CHOCOLATE CON LECHE SIN AZUCAR
+Presentacion: tabletas
+Cantidad Generada: 40
+Ingredientes:
+ • Endulcorante: 0.2 litros
+ • Manteca De Cacao: 8.0 kilogramos
+ • Pasta De Cacao: 4.0 kilogramos
+ • Leche En Polvo: 5.0 kilogramos
+ • Lecitina De Soja: 1.0 kilogramos
+
+CHOCOLATE PURO CON AVELLANAS
+Presentacion: tabletas
+Cantidad Generada: 70
+Ingredientes:
+ • Azucar: 14.0 kilogramos
+ • Pasta De Cacao: 10.0 kilogramos
+ • Avellanas: 16.0 kilogramos
+ • Almendras: 2.0 kilogramos
